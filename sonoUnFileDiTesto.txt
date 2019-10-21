@@ -1,1 +1,2 @@
 sono un file di testo
+verifica funzione git -diff
